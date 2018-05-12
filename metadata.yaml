@@ -1,10 +1,8 @@
 _repo: In-the-Court-of-King-Arthur_6582
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 6582/6582-h/images/illus-cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 6582-h/images/illus-cover.jpg
 creator:
   author:
     agent_name: Lowe, Samuel E. (Samuel Edward)
@@ -19,6 +17,8 @@ description: King Arthur, who held sway in Camelot with his Knights of the Round
   him are probably not historically true, but there was perhaps a real king named
   Arthur, or with a name very much like Arthur, who ruled somewhere in the island
   of Britain about the sixth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6582#In-the-Court-of-King-Arthur
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
